@@ -1,0 +1,17 @@
+appointment_id	patient_id	patient_name	doctor_id	doctor_name	date	time	status
+1	1	Rahul Sharma	1	Dr Ravi Kumar	2026-08-19	10:00:00	Scheduled
+2	2	Priya Reddy	2	Dr Anitha Reddy	2026-08-19	11:00:00	Scheduled
+3	3	Arjun Kumar	3	Dr Sandeep Rao	2026-08-20	09:30:00	Scheduled
+4	4	Sneha Rao	4	Dr Priyanka Sharma	2026-08-20	12:00:00	Scheduled
+5	5	Vikram Singh	2	Dr Anitha Reddy	2026-08-21	10:30:00	Scheduled
+6	6	Anjali Verma	6	Dr Meera Nair	2026-08-21	14:00:00	Scheduled
+7	7	Rohan Patel	1	Dr Ravi Kumar	2026-08-22	09:00:00	Scheduled
+8	8	Meena Kumari	7	Dr Arvind Patel	2026-08-22	15:00:00	Scheduled
+9	9	Aditya Nair	8	Dr Sunitha Rao	2026-08-23	11:30:00	Scheduled
+10	10	Kavya Reddy	9	Dr Naveen Reddy	2026-08-23	13:00:00	Scheduled
+11	11	Suresh Babu	3	Dr Sandeep Rao	2026-08-24	10:00:00	Scheduled
+12	12	Neha Sharma	4	Dr Priyanka Sharma	2026-08-24	16:00:00	Cancelled
+13	13	Kiran Kumar	1	Dr Ravi Kumar	2026-08-25	09:30:00	Scheduled
+14	14	Pooja Mehta	10	Dr Kavitha Singh	2026-08-25	12:30:00	Scheduled
+15	15	Manoj Reddy	2	Dr Anitha Reddy	2026-08-26	14:30:00	Cancelled
+16	1	Rahul Sharma	5	Dr Rajesh Kumar	2026-08-18	21:44:00	Scheduled
